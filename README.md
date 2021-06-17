@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Dishari 👋
 
 
 - 🔭 I’m currently working on something what processing
