@@ -12,5 +12,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do sleep all the day without any work
 <img src="https://github-readme-stats.vercel.app/api?username=dishariroy&show_icons=true&theme=radical">
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=dishariroy)](https://github.com/dishariroy/github-readme-stats)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishariroy">
 
