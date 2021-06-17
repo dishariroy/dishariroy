@@ -11,4 +11,4 @@
  [Facebook: Dishari Roy](https://www.facebook.com/dishari.roy.2000)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do sleep all the day without any work
-<img src+"https://github-readme-stats.vercel.app/api?username=dishariroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515";
+<img src="https://github-readme-stats.vercel.app/api?username=dishariroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515";
